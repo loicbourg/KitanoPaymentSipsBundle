@@ -5,6 +5,12 @@
     "homepage": "http://github.com/Kitano/KitanoPaymentSipsBundle",
     "type": "symfony-bundle",
     "license": "BSD",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/loicbourg/KitanoPaymentBundle"
+        }
+    ],
     "authors": [
         {
             "name": "Philippe Levan",
