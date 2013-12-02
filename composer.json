@@ -18,9 +18,6 @@
             "homepage": "http://www.kitpages.fr"
         }
     ],
-    "require": {
-        "kitano/payment-bundle": "dev-master"
-    },
     "autoload": {
         "psr-0": { "Kitano\\PaymentSipsBundle": "" }
     },
