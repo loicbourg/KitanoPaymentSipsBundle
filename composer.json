@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "kitano/payment-bundle": "master-dev"
+        "kitano/payment-bundle": "dev-master"
     },
     "autoload": {
         "psr-0": { "Kitano\\PaymentSipsBundle": "" }
