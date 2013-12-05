@@ -167,15 +167,6 @@ class SipsPaymentSystem
         $capture_day = $tableau[30];
         $capture_mode = $tableau[31];
         $dataString = $tableau[32];
-        $order_validity = $tableau[33];
-        $transaction_condition = $tableau[34];
-        $statement_reference = $tableau[35];
-        $card_validity = $tableau[36];
-        $score_value = $tableau[37];
-        $score_color = $tableau[38];
-        $score_info = $tableau[39];
-        $score_threshold = $tableau[40];
-        $score_profile = $tableau[41];
 
 
         // sips syntaxically wrong
